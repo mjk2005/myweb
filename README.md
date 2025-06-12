@@ -1,6 +1,12 @@
 <html>
   <head>
     윤동주 시인의 할아버지
+    h1 {
+    color: blue;
+    }
+    h2 {
+    font-family: 'Dongle', sans-serif;
+    }
   </head>
   <body>
     <h1>할아버지</h1>
